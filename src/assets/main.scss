@@ -1,0 +1,35 @@
+@import "./topbar";
+@import "./header";
+@import "./navbar";
+@import "./banner";
+@import "./characteristic";
+@import "./features";
+@import "./popularCategories";
+@import "./banner_2";
+@import "./arrivals";
+@import "./bestSeller";
+@import "./advert";
+@import "./trends";
+@import "./lastReview";
+@import "./recentReview";
+@import "./brands";
+@import "./newLetter";
+@import "./footer";
+@import "./shop";
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: "Rubik", sans-serif;
+}
+.main-container-area {
+	width: 100%;
+	overflow: hidden;
+	height: 100%;
+}
+// @media (max-width: 767px) {
+// 	.main-container-area {
+// 		width: 100%;
+// 	}
+// }
